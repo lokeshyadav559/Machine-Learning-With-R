@@ -1,7 +1,6 @@
 ---
-description: >-
-  In this process raw data is transformed to make it suitable for a machine
-  learning model.
+Machine Learning with R: >-
+
 ---
 
 # Data Preprocessing
